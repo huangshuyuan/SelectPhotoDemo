@@ -15,7 +15,7 @@
 ***
 ## Demo效果预览
 
-![效果图](http://upload-images.jianshu.io/upload_images/3805053-03e8534f8b872dc2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![效果图](http://upload-images.jianshu.io/upload_images/3805053-503b7d782aab9052.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 # 参考文档：
