@@ -16,6 +16,20 @@
 ## Demo效果预览
 
 ![效果图](http://upload-images.jianshu.io/upload_images/3805053-03e8534f8b872dc2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+# 参考文档：
+
+ PhotoView：  https://github.com/chrisbanes/PhotoView
+ 
+ LoadingDrawable：https://github.com/dinuscxj/LoadingDrawable
+ 
+本项目开源地址：[https://github.com/yanzhenjie/album](https://github.com/yanzhenjie/album)
+
+Demo地址：https://github.com/huangshuyuan/SelectPhotoDemo
+
+我的简书：http://www.jianshu.com/p/f91dcf91feec
+
 # 使用方法
 ### Gradle：
 ```
@@ -221,29 +235,7 @@ Album.initialize(new AlbumConfig.Build()
 -keep class com.yanzhenjie.album.**{*;}
 ```
 
-# 参考文档：
 
- PhotoView：  https://github.com/chrisbanes/PhotoView
- 
- LoadingDrawable：https://github.com/dinuscxj/LoadingDrawable
- 
-本项目开源地址：[https://github.com/yanzhenjie/album](https://github.com/yanzhenjie/album)
-
-Demo地址：https://github.com/huangshuyuan/SelectPhotoDemo
-
-我的简书：http://www.jianshu.com/p/f91dcf91feec
 
 ***
 
-
-## 详细效果图
-
-![选择](http://upload-images.jianshu.io/upload_images/3805053-3c59be7c216063b5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-![相册](http://upload-images.jianshu.io/upload_images/3805053-73e436ef085b749f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-![图库](http://upload-images.jianshu.io/upload_images/3805053-6a387516dbd53a79.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-![画廊](http://upload-images.jianshu.io/upload_images/3805053-34cd1ac573895a16.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-![相机](http://upload-images.jianshu.io/upload_images/3805053-8a2d6e9c5132d1c2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
