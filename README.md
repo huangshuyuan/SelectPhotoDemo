@@ -1,17 +1,17 @@
 # SelectPhotoDemo
 图片选择，类似微信的图片选择器，实用
 # 简介
-Album是一个[Android](http://lib.csdn.net/base/android)开源相册，支持单/多选、缩放、预览、按文件夹查看图片，后期会考虑加入图片剪切等操作。
 
-开发者不需要担心Android6.0
-的运行时权限，Album
-* 已经非常完善的处理过了。
+1. 完美支持7.0，不存在**Android7.0 FileUriExposedException**。
+2. 支持组件：`Activity`、`Fragment`。
+3. UI可以配置，比如：`Toolbar`、`StatusBar`、`NavigationBar`。
+4. 相册选图，单选、多选、文件夹预览。
+5. 相机拍照，可以单独调用、也可以以Item展示在相册中。
+6. 画廊，支持缩放、支持浏览本地图片、支持浏览网络图片。
+7. 支持配置相册列数，支持配置相册是否使用相机。
+8. 画廊预览选择的图片，预览时可以反选。
+9. 支持自定义`LocalImageLoader`，例如使用：`Glide`、`Picasso`、`ImageLoader`实现。
 
-*  支持自定义样式风格，比如Toolbar颜色、状态栏颜色等。
-
-* 内置支持了相机，开发者不用担心相机的使用问题，Album自动搞定。
-
-* 支持Activity、Fragment调用。
 ***
 ## Demo效果预览
 
