@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--主题色-->
+    <color name="colorPrimary">#26b597</color>
+    <color name="colorPrimaryDark">#24a58b</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimaryBlack">#26b597</color><!--图库颜色-->
+</resources>

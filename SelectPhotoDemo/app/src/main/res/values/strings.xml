@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">相册选择器</string>
+    <string name="select_photo">相册</string>
+    <string name="take_photo">相机</string>
+</resources>
